@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "785094890558",
+    "project_id": "my-car-app-de7d0",
+    "storage_bucket": "my-car-app-de7d0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785094890558:android:ff8f0a13a560d82007ad6f",
+        "android_client_info": {
+          "package_name": "com.example.my_car_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785094890558-8istr1ps0v7sjsfh22fh5beb3v11lnto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.my_car_app",
+            "certificate_hash": "ceed1162fd6f732f5f6da87474da9d9f5b930806"
+          }
+        },
+        {
+          "client_id": "785094890558-hd9gu7q2vqr8s8e260l7t804li4s5bju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMhI19MlGV6xWpn1aRk9hHqo-vIvjUB9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785094890558-hd9gu7q2vqr8s8e260l7t804li4s5bju.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "785094890558-id8mdkirqqt0eikk93l5u1a9k001r64r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myCarApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785094890558:android:13703e1769f2dd8d07ad6f",
+        "android_client_info": {
+          "package_name": "com.example.pulse_exchange"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785094890558-hd9gu7q2vqr8s8e260l7t804li4s5bju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMhI19MlGV6xWpn1aRk9hHqo-vIvjUB9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785094890558-hd9gu7q2vqr8s8e260l7t804li4s5bju.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "785094890558-id8mdkirqqt0eikk93l5u1a9k001r64r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myCarApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
